@@ -3,9 +3,5 @@ body{
   padding: 0;
   box-sizing: border-box;
   background-color: #fff;
-  margin-top: 56px;
-}
-
-.ctn__site{
-  margin-top: 100px !important;
+  padding-top: 56px;
 }
