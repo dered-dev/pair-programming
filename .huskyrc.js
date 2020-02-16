@@ -2,7 +2,7 @@ const taks = arr => arr.join()
 
 module.exports = {
   'hooks': {
-    'precommit': taks([
+    'pre-commit': taks([
       'npm run standard'
     ])
   }
