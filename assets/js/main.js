@@ -1,3 +1,5 @@
-$(function(){
-  console.log('Hello Koders')
-})
+function test () {
+  console.log('ready')
+}
+
+test()
