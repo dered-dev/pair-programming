@@ -1,6 +1,5 @@
 function test () {
-  console.log('ready');
+  console.log('ready')
 }
 
 test()
-
